@@ -19,7 +19,7 @@ public class SchoolServiceImpl implements SchoolServices {
             return "Not Eligible";
         }
     }
-
+// METHOD OF TEACHER TAUGHT COURSES
 
     @Override
     public void coursesTeacherTaught(Courses courses) {
